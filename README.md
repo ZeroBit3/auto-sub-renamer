@@ -14,9 +14,9 @@
 ## 使用方法
 
 1. 确保你的电脑上已安装 Python 环境。
-2. 将 `rename_subs.py` 脚本文件下载或移动到包含视频和字幕的同一个文件夹中。
+2. 将 `auto-sub-renamer.py` 脚本文件下载或移动到包含视频和字幕的同一个文件夹中。
 3. 在该文件夹下打开终端或命令行工具。
 4. 运行以下命令：
 
    ```bash
-   python rename_subs.py
+   python auto-sub-renamer.py
